@@ -53,8 +53,8 @@ January 2022 – May 2022
 -	Computer vision : Object detection, Classification, Segmentation
 -	Data mining:  Pandas, Matplotlib, Orange, Seaborn
 -	Machine learning : PyTorch, Scikit-learn, NumPy Spacy
--	MLOps: Fiftyone, wandb, Docker
--	Data labelling: Label Studio
+-	MLOps: wandb, Docker
+-	Data curation: Label Studio, Fiftyone
 -	Finance: Option pricing, PDEs, Stochastic simulation 
 -	Web development: HTML, CSS, WordPress
 
