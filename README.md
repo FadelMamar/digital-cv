@@ -1,11 +1,13 @@
 # Profile
 
 
-# Education
+Education
+---
+
 ## MSc. in Computational Science and Engineering • EPFL
 2020  - 2023
 A training bridging the gap between computer science and mathematics. I focus on machine learning applications.
--	Access my portfolio of scientific publications.
+-	Access [my portfolio of scientific publications](https://orcid.org/0000-0002-2582-3084).
 
 ## BSc. in Civil engineering • EPFL
 2017 - 2020
@@ -20,7 +22,8 @@ Communication and team work | Openclassrooms.com
 Web development                        | Openclassrooms.com
 
 
-# Experience
+Experience
+---
 
 ## Research assistant in sonic tomography of walls • EPFL
 Since November 2022
@@ -41,11 +44,31 @@ January 2022 – May 2022
 Keywords : Server migration, Communication, Data base migration
 
 
-# Languages
+Tool stack
+---
+-	Programming : Python, MATLAB, C++, SQL, Cuda
+-	Data modeling : Supervised and Unsupervised learning
+-	Computer vision : Object detection, Classification
+-	Data mining:  Pandas, Matplotlib, Orange, Seaborn
+-	Machine learning : PyTorch, Scikit-learn, NumPy Spacy
+-	MLOps: Fiftyone, Label Studio, wandb, Docker
+-	Finance: Option pricing, PDEs, Stochastic simulation 
 
 
-# Tool stack
+Languages
+---
+-	English : C1 (fluent)
+-	French : Mother-tongue
+-	Italian : B2 (good)
+-	Norwegian : A1 (beginner)
 
 
 
-# Interest
+Interests
+---
+-	Photography : sahelian_globettroter on Instagram 
+-	Entrepreneurship: ETH Talentkick, EPFL changemakers 
+-	Basketball
+
+
+
