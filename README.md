@@ -65,6 +65,10 @@ January 2022 – May 2022 (5 months)
 -	Finance: Option pricing, PDEs, Stochastic simulation 
 -	Web development: HTML, CSS, WordPress
 
+
+---
+
+
 # Academic Projects
 ### Master thesis on satellite imagery classification • EPFL 
 March 2023 – July 2023
@@ -127,6 +131,7 @@ February 2021 - June 2021
 
 ---
 
+
 # Volunteering
 ### Sponsorship manager • Entrepreneur Club EPFL
 September 2021 – February 2023
@@ -141,11 +146,11 @@ September 2021 – February 2023
 -	_Keywords_ : WordPress, Photo editing, Web design
 
 
+---
+
+
 # Interests
 
 -	Photography : sahelian_globettroter on Instagram 
 -	Entrepreneurship: ETH Talentkick, EPFL changemakers 
 -	Basketball
-
-
-
