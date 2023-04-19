@@ -2,7 +2,7 @@
 
 > Fadel Mamar Seydou
 > - fadel.seydou@gmail.com
-> - [Linkedin] (https://www.linkedin.com/in/fadel-mamar-seydou/)
+> - [Linkedin](https://www.linkedin.com/in/fadel-mamar-seydou/)
 > - Switzerland
 
 
@@ -19,9 +19,8 @@
 ## BSc. in Civil engineering @ EPFL
 2017 - 2020
 - Theoretical training on building modern structures
+- 2019 - 2020 : Exchange year in Norway @ [NTNU](https://www.ntnu.edu/) 
 
-### Exchange year in Norway @ NTNU 
-2019 - 2020
 
 ## Online continuing education
 2021 
