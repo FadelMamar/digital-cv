@@ -5,26 +5,31 @@
 > - [Linkedin] (https://www.linkedin.com/in/fadel-mamar-seydou/)
 > - Switzerland
 
+
+---
+
 # Education
 
 ## MSc. in Computational Science and Engineering @ EPFL
 2020  - 2023
-A training bridging the gap between computer science and mathematics. I focus on machine learning applications.
+- A training bridging the gap between computer science and mathematics. I focus on machine learning applications.
 -	Access [my portfolio of scientific publications](https://orcid.org/0000-0002-2582-3084).
 -	Master [curriculum](https://www.epfl.ch/education/master/programs/computational-science-and-engineering/)
 
 ## BSc. in Civil engineering @ EPFL
 2017 - 2020
-Theoretical training on building modern structures
+- Theoretical training on building modern structures
 
 ### Exchange year in Norway @ NTNU 
 2019 - 2020
 
 ## Online continuing education
 2021 
-Communication and team work | Openclassrooms.com
-Web development             | Openclassrooms.com
+- Communication and team work | Openclassrooms.com
+- Web development             | Openclassrooms.com
 
+
+---
 
 # Experience
 
@@ -46,6 +51,8 @@ January 2022 – May 2022 (5 months)
 -	I served as a midpoint between researchers and IT specialists
 - _Keywords_ : Server migration, Communication, Data base migration
 
+
+---
 
 # Tool stack
 
@@ -109,6 +116,8 @@ February 2021 - June 2021
 - _Keywords_: Entrepreneurship, business model canvas, pitching
 
 
+---
+
 # Languages
 
 -	English : C1 (fluent)
@@ -116,6 +125,8 @@ February 2021 - June 2021
 -	Italian : B2 (good)
 -	Norwegian : A1 (beginner)
 
+
+---
 
 # Volunteering
 ### Sponsorship manager • Entrepreneur Club EPFL
