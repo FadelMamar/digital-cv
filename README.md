@@ -25,19 +25,19 @@ Web development             | Openclassrooms.com
 
 # Experience
 
-## Research assistant in sonic tomography of walls • EPFL
+## Research assistant in sonic tomography of walls • [EPFL](https://www.epfl.ch/en/)
 Since November 2022
 -	I am implementing algorithms to process sonic tomography waves
 -	I use deep learning to create digital models of masonry walls 
 - _Keywords_ : Timeseries analysis, Deep learning, PDEs, Inverse modeling
 
-## Data science Intern • Eye hospital Jules Gonin - Lausanne
+## Data science Intern • [Eye hospital Jules Gonin ](https://www.ophtalmique.ch/)
  September 2022 – February 2023
 -	I developed deep learning models for lesion detection in OCT scans of the eye
 -	I leveraged doctors’ prior knowledge to improve the detection algorithms
 - _Keywords_ : Semantic segmentation, model engineering, Medical imaging
 
-## IT support • University of Lausanne - HEC
+## IT support • [University of Lausanne](https://www.unil.ch/index.html) 
 January 2022 – May 2022
 -	I did follow-ups on data migration and provide support to researchers
 -	I served as a midpoint between researchers and IT specialists
