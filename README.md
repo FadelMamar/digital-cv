@@ -1,5 +1,6 @@
----
+
 Education
+
 ---
 
 ## MSc. in Computational Science and Engineering • EPFL
@@ -19,8 +20,9 @@ Online continuing education
 Communication and team work | Openclassrooms.com
 Web development                        | Openclassrooms.com
 
----
+
 Experience
+
 ---
 
 ## Research assistant in sonic tomography of walls • EPFL
@@ -41,9 +43,11 @@ January 2022 – May 2022
 -	I served as a midpoint between researchers and IT specialists
 Keywords : Server migration, Communication, Data base migration
 
----
+
 Tool stack
+
 ---
+
 -	Programming : Python, MATLAB, C++, SQL, Cuda
 -	Data modeling : Supervised and Unsupervised learning
 -	Computer vision : Object detection, Classification
@@ -52,18 +56,22 @@ Tool stack
 -	MLOps: Fiftyone, Label Studio, wandb, Docker
 -	Finance: Option pricing, PDEs, Stochastic simulation 
 
----
+
 Languages
+
 ---
+
 -	English : C1 (fluent)
 -	French : Mother-tongue
 -	Italian : B2 (good)
 -	Norwegian : A1 (beginner)
 
 
----
+
 Interests
+
 ---
+
 -	Photography : sahelian_globettroter on Instagram 
 -	Entrepreneurship: ETH Talentkick, EPFL changemakers 
 -	Basketball
