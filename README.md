@@ -24,8 +24,8 @@
 
 ## Online continuing education
 2021 
-- Communication and team work | Openclassrooms.com
-- Web development             | Openclassrooms.com
+- Communication and team work @ Openclassrooms.com
+- Web development             @ Openclassrooms.com
 
 
 ---
