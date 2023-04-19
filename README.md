@@ -42,7 +42,7 @@ Since November 2022
  September 2022 – February 2023 (6 months)
 -	I developed deep learning models for lesion detection in OCT scans of the eye
 -	I leveraged doctors’ prior knowledge to improve the detection algorithms
-- _Keywords_ : Semantic segmentation, model engineering, Medical imaging
+- _Keywords_ : Semantic segmentation, Model engineering, Medical imaging
 
 ## IT support @ [University of Lausanne](https://www.unil.ch/index.html) 
 January 2022 – May 2022 (5 months)
@@ -92,7 +92,7 @@ February 2022 - June 2022
 Since June 2021 
 -	As project manager, I coordinate the team and plan the execution of the project
 -	I have successfully developed a prototype to detect elephants from aerial images
-- _Keywords_ :  applied research,  Small object detection,  Remote sensing
+- _Keywords_ :  Applied research,  Small object detection,  Remote sensing
 
 ### Design of an intelligent search engine • EPFL 
 November 2020 - June 2021  
@@ -116,7 +116,7 @@ September 2021 - December 2021
 February 2021 - June 2021
 -	I designed a business model for my project idea
 -	I tailored my pitch to match different audiences
-- _Keywords_: Entrepreneurship, business model canvas, pitching
+- _Keywords_: Entrepreneurship, Business model canvas, Pitching
 
 
 ---
