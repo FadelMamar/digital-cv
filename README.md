@@ -2,6 +2,7 @@
 
 > Fadel Mamar Seydou
 > - fadel.seydou@gmail.com
+> - [Linkedin] (https://www.linkedin.com/in/fadel-mamar-seydou/)
 > - Switzerland
 
 # Education
@@ -34,13 +35,13 @@ Since November 2022
 - _Keywords_ : Timeseries analysis, Deep learning, PDEs, Inverse modeling
 
 ## Data science Intern @ [Eye hospital Jules Gonin ](https://www.ophtalmique.ch/)
- September 2022 – February 2023
+ September 2022 – February 2023 (6 months)
 -	I developed deep learning models for lesion detection in OCT scans of the eye
 -	I leveraged doctors’ prior knowledge to improve the detection algorithms
 - _Keywords_ : Semantic segmentation, model engineering, Medical imaging
 
 ## IT support @ [University of Lausanne](https://www.unil.ch/index.html) 
-January 2022 – May 2022
+January 2022 – May 2022 (5 months)
 -	I did follow-ups on data migration and provide support to researchers
 -	I served as a midpoint between researchers and IT specialists
 - _Keywords_ : Server migration, Communication, Data base migration
@@ -59,8 +60,8 @@ January 2022 – May 2022
 -	Web development: HTML, CSS, WordPress
 
 # Academic Projects
-### Master thesis on satellite imagery classification  • EPFL 
-March 2023 – July2023
+### Master thesis on satellite imagery classification • EPFL 
+March 2023 – July 2023
 -	I am look for ways to better classify drivers of tropical deforestation 
 -	I will leverage the hierarchical label structure to improve the performance
 - *Keywords* : Remote sensing, Multi-label classification, Structured output learning
@@ -75,7 +76,7 @@ November 2022 - January 2023
 February 2022 - June 2022
 -	I experimented on the personalization in federated learning 
 -	I am deriving a new formulation for learning under distribution shifts
-- *Keywords* : Privacy-preserving data analysis, Cluster programming, Bash scripting
+- *Keywords* : Privacy-preserving data analysis, HPC, Bash scripting
 
 ### Automatic detection of large herbivore from images 
 Since June 2021 
@@ -119,13 +120,13 @@ February 2021 - June 2021
 # Volunteering
 ### Sponsorship manager • Entrepreneur Club EPFL
 September 2021 – February 2023
--	I look for new sponsors to help finance our  events 
+-	I looked for new sponsors to help finance our  events 
 -	I successfully approached 6 companies during the Forum EPFL
 - _Keywords_ : Chairing meetings, Sponsors search, Networking
 
 ### Webmaster & multimedia support • Lauz’One  Association
  Since September 2020
--	I am maintaining the association's website 
+-	I am maintaining the association's [website](https://lauzonefestival.ch/) 
 -	I took and edited promotional pictures during our festival in September 2021
 -	_Keywords_ : WordPress, Photo editing, Web design
 
