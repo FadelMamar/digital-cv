@@ -6,15 +6,17 @@
 
 # Education
 
-## MSc. in Computational Science and Engineering • EPFL
+## MSc. in Computational Science and Engineering @ EPFL
 2020  - 2023
 A training bridging the gap between computer science and mathematics. I focus on machine learning applications.
 -	Access [my portfolio of scientific publications](https://orcid.org/0000-0002-2582-3084).
+-	Master [curriculum](https://www.epfl.ch/education/master/programs/computational-science-and-engineering/)
 
-## BSc. in Civil engineering • EPFL
+## BSc. in Civil engineering @ EPFL
 2017 - 2020
 Theoretical training on building modern structures
-### Exchange year in Norway • NTNU 
+
+### Exchange year in Norway @ NTNU 
 2019 - 2020
 
 ## Online continuing education
@@ -25,19 +27,19 @@ Web development             | Openclassrooms.com
 
 # Experience
 
-## Research assistant in sonic tomography of walls • [EPFL](https://www.epfl.ch/en/)
+## Research assistant in sonic tomography of walls @ [EPFL](https://www.epfl.ch/en/)
 Since November 2022
 -	I am implementing algorithms to process sonic tomography waves
 -	I use deep learning to create digital models of masonry walls 
 - _Keywords_ : Timeseries analysis, Deep learning, PDEs, Inverse modeling
 
-## Data science Intern • [Eye hospital Jules Gonin ](https://www.ophtalmique.ch/)
+## Data science Intern @ [Eye hospital Jules Gonin ](https://www.ophtalmique.ch/)
  September 2022 – February 2023
 -	I developed deep learning models for lesion detection in OCT scans of the eye
 -	I leveraged doctors’ prior knowledge to improve the detection algorithms
 - _Keywords_ : Semantic segmentation, model engineering, Medical imaging
 
-## IT support • [University of Lausanne](https://www.unil.ch/index.html) 
+## IT support @ [University of Lausanne](https://www.unil.ch/index.html) 
 January 2022 – May 2022
 -	I did follow-ups on data migration and provide support to researchers
 -	I served as a midpoint between researchers and IT specialists
