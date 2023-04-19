@@ -81,7 +81,7 @@ February 2022 - June 2022
 Since June 2021 
 -	As project manager, I coordinate the team and plan the execution of the project
 -	I have successfully developed a prototype to detect elephants from aerial images
-- _Keywords_ :  Entrepreneurship,  Small object detection,  Remote sensing
+- _Keywords_ :  applied research,  Small object detection,  Remote sensing
 
 ### Design of an intelligent search engine • EPFL 
 November 2020 - June 2021  
