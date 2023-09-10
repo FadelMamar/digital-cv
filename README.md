@@ -5,56 +5,7 @@
 > - [Linkedin](https://www.linkedin.com/in/fadel-mamar-seydou/)
 > - Switzerland
 
-
----
-
-# Education
-
-## MSc. in Computational Science and Engineering @ EPFL
-2020  - 2023
-- A training bridging the gap between computer science and mathematics. I focus on machine learning applications.
--	Access [my portfolio of scientific publications](https://orcid.org/0000-0002-2582-3084).
--	Master [curriculum](https://www.epfl.ch/education/master/programs/computational-science-and-engineering/)
-
-## BSc. in Civil engineering @ EPFL
-2017 - 2020
-- Theoretical training on building modern structures
-- 2019 - 2020 : Exchange year in Norway @ [NTNU](https://www.ntnu.edu/) 
-
-
-## Online continuing education
-2021 
-- Communication and team work @ Openclassrooms.com
-- Web development             @ Openclassrooms.com
-
-
----
-
-# Experience
-
-## Research assistant in sonic tomography of walls @ [EPFL](https://www.epfl.ch/en/)
-Since November 2022
--	I am implementing algorithms to process sonic tomography waves
--	I use deep learning to create digital models of masonry walls 
-- _Keywords_ : Timeseries analysis, Deep learning, PDEs, Inverse modeling
-
-## Data science Intern @ [Eye hospital Jules Gonin ](https://www.ophtalmique.ch/)
- September 2022 – February 2023 (6 months)
--	I developed deep learning models for lesion detection in OCT scans of the eye
--	I leveraged doctors’ prior knowledge to improve the detection algorithms
-- _Keywords_ : Semantic segmentation, Model engineering, Medical imaging
-
-## IT support @ [University of Lausanne](https://www.unil.ch/index.html) 
-January 2022 – May 2022 (5 months)
--	I did follow-ups on data migration and provide support to researchers
--	I served as a midpoint between researchers and IT specialists
-- _Keywords_ : Server migration, Communication, Data base migration
-
-
----
-
 # Tool stack
-
 -	Programming : Python, MATLAB, C++, SQL, Cuda
 -	Data modeling : Supervised and Unsupervised learning
 -	Computer vision : Object detection, Classification, Segmentation
@@ -65,11 +16,9 @@ January 2022 – May 2022 (5 months)
 -	Finance: Option pricing, PDEs, Stochastic simulation 
 -	Web development: HTML, CSS, WordPress
 
-
 ---
 
-
-# Academic Projects
+# Projects
 ### Master thesis on satellite imagery classification • EPFL 
 March 2023 – July 2023
 -	I am look for ways to better classify drivers of tropical deforestation 
@@ -118,39 +67,3 @@ February 2021 - June 2021
 -	I tailored my pitch to match different audiences
 - _Keywords_: Entrepreneurship, Business model canvas, Pitching
 
-
----
-
-# Languages
-
--	English : C1 (fluent)
--	French : Mother-tongue
--	Italian : B2 (good)
--	Norwegian : A1 (beginner)
-
-
----
-
-
-# Volunteering
-### Sponsorship manager • Entrepreneur Club EPFL
-September 2021 – February 2023
--	I looked for new sponsors to help finance our  events 
--	I successfully approached 6 companies during the Forum EPFL
-- _Keywords_ : Chairing meetings, Sponsors search, Networking
-
-### Webmaster & multimedia support • Lauz’One  Association
- Since September 2020
--	I am maintaining the association's [website](https://lauzonefestival.ch/) 
--	I took and edited promotional pictures during our festival in September 2021
--	_Keywords_ : WordPress, Photo editing, Web design
-
-
----
-
-
-# Interests
-
--	Photography : sahelian_globettroter on Instagram 
--	Entrepreneurship: ETH Talentkick, EPFL changemakers 
--	Basketball
