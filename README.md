@@ -19,6 +19,13 @@
 ---
 
 # Projects
+### Sonic tomography of masonry walls • EPFL 
+Since November 2022
+-	I am implementing algorithms to process sonic waves to create tomographic images of masonry walls 
+-	I am conducting numerical simulation of sonic wave propagation
+-   I am improving tomographic images using physics-informed deep learning
+- *Keywords* : Inverse problem, Time series segmentation, PDEs, Physics-informed deep learning
+
 ### Master thesis on satellite imagery classification • EPFL 
 March 2023 – July 2023
 -	I am look for ways to better classify drivers of tropical deforestation 
@@ -38,10 +45,10 @@ February 2022 - June 2022
 - *Keywords* : Privacy-preserving data analysis, HPC, Bash scripting
 
 ### Automatic detection of large herbivore from images 
-Since June 2021 
--	As project manager, I coordinate the team and plan the execution of the project
--	I have successfully developed a prototype to detect elephants from aerial images
-- _Keywords_ :  Applied research,  Small object detection,  Remote sensing
+Since February 2022 
+-	I am implementing deep learning algorithms to automated wildlife counts from aerial imagery in South Africa
+-   I set up a web-based collaborative labeling platform on AWS using Label Studio
+- _Keywords_ :  AWS EC2, AWS SageMaker, Automated wildlife count, Active learning
 
 ### Design of an intelligent search engine • EPFL 
 November 2020 - June 2021  
